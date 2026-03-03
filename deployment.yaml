@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: sowmiyaacr123.azurecr.io/java-app:latest
+        image: sowmiyaacr123.azurecr.io/sowmiyarajapandi/aks-jenkins-demo:latest
         ports:
         - containerPort: 80
