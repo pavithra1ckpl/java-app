@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: pavithraacrad.azurecr.io/pavithra1ckpl/java-app:latest
+        image: pavithraacrad.azurecr.io/pavithra1ckpl/java-app:1
         ports:
         - containerPort: 80
